@@ -209,6 +209,9 @@ input[type=submit]:hover {
 	position:absolute;
 	bottom:10px;
 }
+.projectTitle a {
+	color:#ffffff;
+}
 
 /* Large devices (less than 980px) */
 @media (max-width: 980px) {
